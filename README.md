@@ -1,4 +1,3 @@
 # keshu
 keshava keshu
-This is my site and home branch
-home-changes
+This is my site and master branch
